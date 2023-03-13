@@ -45,3 +45,15 @@ h1 {
   color: white;
   text-align: center;
 }
+
+p {
+  color: rgba(0, 0, 0, 0.64);
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+}
+
+strong {
+  font-size: 1.6rem;
+  line-height: 1.9rem;
+  color: rgba(0, 0, 0, 0.88);
+}
