@@ -95,3 +95,25 @@ section {
   font-size: 4rem;
   line-height: 4.7rem;
 }
+
+.airplane {
+  align-self: center;
+}
+
+.top time {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.top time sup {
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.2rem;
+}
+
+.middle {
+  border: 1px dashed rgba(0, 0, 0, 0.32);
+  border-left: 0;
+  border-right: 0;
+
+  --mask: radial-gradient(1.2rem at 1.2rem 1.2rem, #0000 93%, black) -1.2rem -1.2rem;
+}
