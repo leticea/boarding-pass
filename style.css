@@ -147,3 +147,25 @@ dt time {
   display: inline-block;
   margin-top: 0.2rem;
 }
+
+.bottom > p {
+  text-align: center;
+  margin-top: 2.4rem;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.qrcode.grid {
+  justify-items: center;
+}
+
+footer {
+  font-size: 1.4rem;
+  line-height: 2.4rem;
+  color: white;
+  opacity: 0.64;
+  width: 27rem;
+  text-align: center;
+  margin: 2rem auto;
+}
